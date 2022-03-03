@@ -11,3 +11,29 @@ input {
     background-size: 18px;
     padding-left: 30px;
 }
+.date-btn {
+    background-image: url(/Images/gmail.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 30px;
+}
+
+.password {
+    background-image: url(/Images/password.png);
+    background-repeat: no-repeat;
+    background-size: 18px;
+    padding-left: 30px;
+}
+input {
+    background-image: url(/Images/gmail.png);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    padding-left: 30px;
+}
+
+.password {
+    background-image: url(/Images/password.png);
+    background-repeat: no-repeat;
+    background-size: 18px;
+    padding-left: 30px;
+}
